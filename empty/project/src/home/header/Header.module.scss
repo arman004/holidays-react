@@ -1,0 +1,25 @@
+.head{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.nav{
+    list-style-type: none;
+    display: flex;
+    gap: 31px;
+    li{
+        &:hover{
+            cursor: pointer;
+            color: #F7941E;
+        }
+    }
+}
+.head-btn{
+    background-color: white;
+    color: #F7941E;
+    border-color: #F7941E;
+    width: 150px;
+    height: 43px;
+    font-size: 18px;
+    border-radius: 5px;
+}

@@ -1,0 +1,36 @@
+.nav {
+    display: flex;
+    list-style: none;
+    gap: 85px;
+
+    li {
+        &:hover {
+            cursor: pointer;
+            color: #F7941E;
+        }
+    }
+}
+.footer-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 55px;
+    hr{
+        color: black;
+    }
+}
+
+.section-foot{
+    background-color: #FAFAFA;
+    margin-top: 10%;
+}
+.icons-div{
+    display: flex;
+    gap: 25px;
+    svg{
+        font-size: 38px;
+        border-radius: 11px;
+    }
+    
+}
