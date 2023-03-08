@@ -1,21 +1,15 @@
 {
   "files": {
-    "main.css": "/holidays-react/static/css/main.750f4a50.css",
-    "main.js": "/holidays-react/static/js/main.5775a653.js",
-    "static/js/787.ec704a7a.chunk.js": "/holidays-react/static/js/787.ec704a7a.chunk.js",
-    "static/media/Background.png": "/holidays-react/static/media/Background.36c513756770225ebaee.png",
-    "static/media/MediaBackground.png": "/holidays-react/static/media/MediaBackground.59f5e51818abc84ccdc7.png",
-    "static/media/Rectangle3.png": "/holidays-react/static/media/Rectangle3.3a912d7df86957eda586.png",
-    "static/media/Rectangle1.png": "/holidays-react/static/media/Rectangle1.f54bf1d502ef9d9be4c8.png",
-    "static/media/Rectangle2.png": "/holidays-react/static/media/Rectangle2.8946ffb8039ba4ecd198.png",
-    "static/media/Rectangle.png": "/holidays-react/static/media/Rectangle.05adca11a19ccf525b6e.png",
-    "index.html": "/holidays-react/index.html",
-    "main.750f4a50.css.map": "/holidays-react/static/css/main.750f4a50.css.map",
-    "main.5775a653.js.map": "/holidays-react/static/js/main.5775a653.js.map",
-    "787.ec704a7a.chunk.js.map": "/holidays-react/static/js/787.ec704a7a.chunk.js.map"
+    "main.css": "/login-page-react/static/css/main.0d9d6026.css",
+    "main.js": "/login-page-react/static/js/main.735f4727.js",
+    "static/js/787.3e128b3f.chunk.js": "/login-page-react/static/js/787.3e128b3f.chunk.js",
+    "index.html": "/login-page-react/index.html",
+    "main.0d9d6026.css.map": "/login-page-react/static/css/main.0d9d6026.css.map",
+    "main.735f4727.js.map": "/login-page-react/static/js/main.735f4727.js.map",
+    "787.3e128b3f.chunk.js.map": "/login-page-react/static/js/787.3e128b3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.750f4a50.css",
-    "static/js/main.5775a653.js"
+    "static/css/main.0d9d6026.css",
+    "static/js/main.735f4727.js"
   ]
 }
